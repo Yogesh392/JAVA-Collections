@@ -44,7 +44,7 @@ The goal of this repository is to:
 
 - IDE: [Visual Studio Code](https://code.visualstudio.com/)
 - Language: **Java (JDK 17 or above)**
-- OS: Windows 10
+- OS: Windows 11
 - Build & Run: Terminal / VSCode Terminal
 
 ---
@@ -61,9 +61,9 @@ This is a personal practice repository. If you'd like to suggest improvements, f
 
 ---
 
-## ❤️ Made with Love
+##  Made with Tech
 
-Made with ❤️ in **VS Code** using **Java**. Learning never stops! 🚀
+Made with  in **VS Code** using **Java**. Learning never stops! 🚀
 
 ---
 
